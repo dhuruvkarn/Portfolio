@@ -83,7 +83,7 @@ ul {
   text-transform: uppercase;
   color: #17202a;
   -webkit-text-stroke-width: 1px;
-  -webkit-text-stroke-color: rgba(0, 218, 244, 0.1);
+  -webkit-text-stroke-color: teal;
   -webkit-touch-callout: none;
   user-select: none;
 }
